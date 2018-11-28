@@ -1,3 +1,16 @@
 body {
     text-align: center;
 }
+
+#score {
+    font-weight: 900;
+    font-size: 25px;
+}
+
+#lifes {
+    display: inline-block;
+}
+
+#message {
+    height: 30px;
+}
